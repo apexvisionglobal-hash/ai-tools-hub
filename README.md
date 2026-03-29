@@ -1,2 +1,2 @@
-# ai-tools-hub
+# ai-tools-h
 Website
